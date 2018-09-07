@@ -6,7 +6,7 @@ REM WOXÇ©ÇÁí@Ç≠Ç∆é∏îsÇ∑ÇÈÇÃÇ≈ë„ë÷çÙ
 REM ///////////////////////////////////////////////////
 
 start "" "C:\Program Files (x86)\VMware\VMware Horizon View Client\vmware-view.exe"
-cd C:\Users\shino
+cd C:\Users\shino\doc\autologin
 start get_otp.py
 
 REM ///////////////////////////////////////////////////

@@ -6,8 +6,7 @@ REM WOXÇ©ÇÁí@Ç≠Ç∆é∏îsÇ∑ÇÈÇÃÇ≈ë„ë÷çÙ
 REM ///////////////////////////////////////////////////
 
 start "" "C:\Users\shino\bin\nos\quolaN0AF051275008.exe"
-cd C:\Users\shino
+cd C:\Users\shino\doc\autologin
 start get_noswin.py
 
 REM ///////////////////////////////////////////////////
-
